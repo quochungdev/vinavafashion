@@ -34,6 +34,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = VinavaFashionProject.MainP
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[D:/MAUI/VinavaFashionProject/VinavaFashionProject/Views/CollectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VinavaFashionProject.Views.CollectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CollectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CollectionPage.xaml
+
 [D:/MAUI/VinavaFashionProject/VinavaFashionProject/Views/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VinavaFashionProject.Views.HomePage.xaml
@@ -45,3 +51,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VinavaFashionProject.Views.MemberPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\MemberPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\MemberPage.xaml
+
+[D:/MAUI/VinavaFashionProject/VinavaFashionProject/Views/OrderPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VinavaFashionProject.Views.OrderPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\OrderPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\OrderPage.xaml
+
+[D:/MAUI/VinavaFashionProject/VinavaFashionProject/Views/ProductPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VinavaFashionProject.Views.ProductPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductPage.xaml

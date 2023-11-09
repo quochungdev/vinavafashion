@@ -11886,18 +11886,22 @@ public final class R {
     public static final int notify_panel_notification_icon_bg=0x7f080132;
     public static final int occurrence=0x7f080133;
     public static final int order=0x7f080134;
-    public static final int radiobuttonchecked=0x7f080135;
-    public static final int radiobuttonunchecked=0x7f080136;
-    public static final int reminder=0x7f080137;
-    public static final int ruler=0x7f080138;
-    public static final int searchicon=0x7f080139;
-    public static final int splash=0x7f08013a;
-    public static final int star=0x7f08013b;
-    public static final int test_level_drawable=0x7f08013c;
-    public static final int tooltip_frame_dark=0x7f08013d;
-    public static final int tooltip_frame_light=0x7f08013e;
-    public static final int user=0x7f08013f;
-    public static final int watermark=0x7f080140;
+    public static final int product1=0x7f080135;
+    public static final int product2=0x7f080136;
+    public static final int product3=0x7f080137;
+    public static final int product4=0x7f080138;
+    public static final int radiobuttonchecked=0x7f080139;
+    public static final int radiobuttonunchecked=0x7f08013a;
+    public static final int reminder=0x7f08013b;
+    public static final int ruler=0x7f08013c;
+    public static final int searchicon=0x7f08013d;
+    public static final int splash=0x7f08013e;
+    public static final int star=0x7f08013f;
+    public static final int test_level_drawable=0x7f080140;
+    public static final int tooltip_frame_dark=0x7f080141;
+    public static final int tooltip_frame_light=0x7f080142;
+    public static final int user=0x7f080143;
+    public static final int watermark=0x7f080144;
   }
   public static final class id {
     public static final int ALT=0x7f090000;

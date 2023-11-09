@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VinavaFashionProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+adc31d6a1b82a5cdab01f78a2d1668fee931c7a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("VinavaFashionProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VinavaFashionProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

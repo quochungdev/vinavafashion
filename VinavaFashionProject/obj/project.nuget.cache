@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "H6j2rgpkfDTZjkqT7x4I9edMIGH89jLRoVuU2BVKRA3P+DAATBRj6n9UyvoLRlldM+0cfXAAUPm+xtfHBilm1w==",
+  "dgSpecHash": "BkBRA4hRWulWO02uGAgL0xPNHUZ4/vsFLdNsbGJj/NU9WMuq64qDGp2U/JpGSGdk4AYWlEZ+bhzJAd/ZGNBvtw==",
   "success": true,
   "projectFilePath": "D:\\MAUI\\VinavaFashionProject\\VinavaFashionProject\\VinavaFashionProject.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\communitytoolkit.maui\\6.1.0\\communitytoolkit.maui.6.1.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\communitytoolkit.maui.core\\6.1.0\\communitytoolkit.maui.core.6.1.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\devexpress.data\\23.1.6\\devexpress.data.23.1.6.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\devexpress.maui.charts\\23.1.6\\devexpress.maui.charts.23.1.6.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\devexpress.maui.collectionview\\23.1.6\\devexpress.maui.collectionview.23.1.6.nupkg.sha512",

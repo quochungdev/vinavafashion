@@ -4,6 +4,7 @@ using Microsoft.Maui.Controls.Compatibility;
 using Microsoft.Maui.Controls.Compatibility.Hosting;
 using Microsoft.Maui.Controls.Hosting;
 using Microsoft.Maui.Hosting;
+using CommunityToolkit.Maui;
 
 namespace VinavaFashionProject
 {
@@ -14,6 +15,7 @@ namespace VinavaFashionProject
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                .UseMauiCommunityToolkit()
                 .UseDevExpress(useLocalization: true)
                 .ConfigureFonts(fonts =>
                 {

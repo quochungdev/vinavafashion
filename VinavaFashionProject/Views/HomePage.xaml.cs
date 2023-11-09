@@ -7,10 +7,12 @@ namespace VinavaFashionProject.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class HomePage : ContentPage
     {
+        private ProductViewModel productViewModel = App.ProductViewModel;
         public HomePage()
         {
             InitializeComponent();
-            BindingContext = new HomePageViewModels();
+            //BindingContext = new HomePageViewModels();
+            BindingContext = productViewModel;
 
             var items = new List<CollectionItem>
             {

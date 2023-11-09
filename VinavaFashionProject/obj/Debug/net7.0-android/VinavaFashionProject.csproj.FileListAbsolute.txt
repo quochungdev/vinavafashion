@@ -1215,3 +1215,15 @@ D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\resiz
 D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\resizetizer\r\drawable\star.png
 D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\resizetizer\r\drawable\location.png
 D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\resizetizer\r\drawable\notification_2.png
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\VinavaFashionProject.sourcelink.json
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\resizetizer\r\drawable\product1.jpg
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\resizetizer\r\drawable\product2.jpg
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\resizetizer\r\drawable\product3.jpg
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\resizetizer\r\drawable\product4.jpg
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Maui.Core.dll
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Maui.dll
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\android\src\crc64159f3caeb1269279\MauiDrawingView.java
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\android\src\crc64159f3caeb1269279\MauiPopup.java
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\android\src\crc64159f3caeb1269279\MauiSemanticOrderView.java
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\android\src\crc648fc34c62be8fbbff\Snackbar_SnackbarCallback.java
+D:\MAUI\VinavaFashionProject\VinavaFashionProject\obj\Debug\net7.0-android\android\src\crc64d6358e7bf64fbac4\SpeechToTextImplementation_SpeechRecognitionListener.java

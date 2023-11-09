@@ -20,18 +20,18 @@
         <ShellContent
           Icon="info"
           Title="Product"
-          ContentTemplate="{DataTemplate views:HomePage}"
-          Route="HomePage" />
+          ContentTemplate="{DataTemplate views:ProductPage}"
+          Route="ProductPage" />
         <ShellContent
           Icon="info"
           Title="Order"
-          ContentTemplate="{DataTemplate views:HomePage}"
-          Route="HomePage" />
+          ContentTemplate="{DataTemplate views:OrderPage}"
+          Route="OrderPage" />
         <ShellContent
           Icon="info"
           Title="Collection"
-          ContentTemplate="{DataTemplate views:HomePage}"
-          Route="HomePage" />
+          ContentTemplate="{DataTemplate views:CollectionPage}"
+          Route="CollectionPage" />
         <ShellContent
         Icon="info"
         Title="Member"
